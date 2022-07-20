@@ -18,7 +18,7 @@ Communication between components is done via RabbitMQ queues.
 Data persistence is obtained using a MongoDB database.
 
 The following diagram indicates how system components interact between each other.
-![Component interaction](res\blockchain-event-processor-architecture.jpg)
+![Component interaction](res/blockchain-event-processor-architecture.jpg)
 
 ## Setup
 
