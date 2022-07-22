@@ -69,6 +69,7 @@ The exact schema, databases, collections and indexes to be setup are somewhat cu
 Our case would need the setup indicate in [bevents-index-processor MongoDB setup](https://github.com/abarbatei/bevents-index-processor#mongodb-setup-and-interaction)
 
 #Credits
+
 The 2 custom images used in the system component interaction diagram are royalty free provided by 
 [Shubham Dhage](https://unsplash.com/@theshubhamdhage?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText") on [Unsplash](https://unsplash.com/s/photos/blockchain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 and by [Gerd Altmann](https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3938432) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3938432).
