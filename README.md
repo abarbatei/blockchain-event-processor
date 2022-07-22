@@ -68,7 +68,7 @@ docker run --name events-mongo -p 27017:27017 -d mongo:4.4
 The exact schema, databases, collections and indexes to be setup are somewhat custom to each implementation.
 Our case would need the setup indicate in [bevents-index-processor MongoDB setup](https://github.com/abarbatei/bevents-index-processor#mongodb-setup-and-interaction)
 
-#Credits
+# Credits
 
 The 2 custom images used in the system component interaction diagram are royalty free provided by 
 [Shubham Dhage](https://unsplash.com/@theshubhamdhage?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText") on [Unsplash](https://unsplash.com/s/photos/blockchain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
